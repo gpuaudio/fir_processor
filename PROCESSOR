@@ -1,0 +1,2 @@
+PROCESSOR_IDENTIFIER="fir"
+PROCESSOR_DESCRIPTION="Finite Impulse Respone Processor for GPU Audio"
